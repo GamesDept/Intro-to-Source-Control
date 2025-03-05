@@ -70,6 +70,7 @@ The code written in `main.cpp` is unfinished, it is your job to complete it.
    - ![Commit naming](resources/commit.png)
 6. Press `Commit to main`
 7. At the top of your screen press `Push origin`
+   - ![push origin](resources/push.png)
    - This can also be done in the Repository menu
 
 ### Step 4: Pulling
