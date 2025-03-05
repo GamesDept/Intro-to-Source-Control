@@ -45,16 +45,16 @@ This repository is storing a C++ project which finds prime numbers.
 The code written in `main.cpp` is unfinished, it is your job to complete it. 
 
 ### Step 1: Setup 
-1. If you do not have a github account, [create one here](https://github.com/signup). 
-2. Download or open a git IDE, for this tutorial we recommend using [Github Desktop](https://desktop.github.com/download/). 
+1. If you do not have a GitHub account, [create one here](https://github.com/signup). 
+2. Download or open a git IDE, for this tutorial we recommend using [GitHub Desktop](https://desktop.github.com/download/). 
 
 ### Step 2: Cloning the Repository
-1. In Github Desktop, after you have signed in, click the `Clone repository` button.
-   - ![clone Github Desktop](resources/cloneLocal.png)
+1. In GitHub Desktop, after you have signed in, click the `Clone repository` button.
+   - ![clone GitHub Desktop](resources/cloneLocal.png)
 2. You'll see a few options to choose from: 
    - For `GitHub.com` you should see a list of repositories you can clone.
    - For `URL` you can paste the URL or the repository this can be found in the following image. 
-   - ![clone Github online](resources/cloneRepo.png)
+   - ![clone GitHub online](resources/cloneRepo.png)
 3. When cloning the repository make sure to set and keep track of the `Local path`. This is where the repository will be stored on your computer. 
 
 ### Step 3: Making a Commit and Pushing.
@@ -64,7 +64,7 @@ The code written in `main.cpp` is unfinished, it is your job to complete it.
 4. Open GitHub Desktop, here you should be able to see the changes you made to the code. 
    - This is where it will list each file that has been modified, added or deleted. 
    - You can also see individual changes within the files.
-   - ![changes in github desktop](resources/changes.png)
+   - ![changes in GitHub desktop](resources/changes.png)
 5. Name your commit, enter some text to descibe what changes you made. 
    - A well named commit will help you keep track of the history of your project.
    - ![Commit naming](resources/commit.png)
@@ -74,7 +74,7 @@ The code written in `main.cpp` is unfinished, it is your job to complete it.
    - This can also be done in the Repository menu
 
 ### Step 4: Pulling
-Now that you've pushed your changes you should be abe to see them reflected on the repository hosted on Github.com. [Click here to jump to main.cpp](IntroToSourceControl/main.cpp).
+Now that you've pushed your changes you should be abe to see them reflected on the repository hosted on GitHub.com. [Click here to jump to main.cpp](IntroToSourceControl/main.cpp).
 
 1. Make an edit to main.cpp on your browser. 
    - Look for the pencil icon
@@ -93,7 +93,7 @@ Congratualtions you have successfully pulled and pushed to a repository using so
    - <i>Checking Out</i> is the act of changing your current version of the repository on you local machine. 
    - It is used to see older versions and change between branches. 
    - Don't forget to checkout the latest commit after this!
-3. Make a new repository on github and clone it onto your computer. 
+3. Make a new repository on GitHub and clone it onto your computer. 
    - You'll be expected to make use of source control in future assignments, practice makes perfect! 
 
 ### Questions?
