@@ -94,7 +94,9 @@ Congratualtions you have successfully pulled and pushed to a repository using so
    - It is used to see older versions and change between branches. 
    - Don't forget to checkout the latest commit after this!
 3. Make a new repository on GitHub and clone it onto your computer. 
-   - You'll be expected to make use of source control in future assignments, practice makes perfect! 
+   - When making a new repository you'll be asked to pick a gitignore. 
+     - This is a file which prevents certain files and folders from being included in the repository.
+     - GitHub provides gitignore templates for different coding langauges and project types, otherwise you can create your own.  
 
 ### Questions?
 Contact your lecturer about any additional questions you have.
