@@ -50,11 +50,11 @@ The code written in `main.cpp` is unfinished, it is your job to complete it.
 
 ### Step 2: Cloning the Repository
 1. In Github Desktop, after you have signed in, click the `Clone repository` button.
-   - ![clone Github Desktop](resources\cloneLocal.png)
+   - ![clone Github Desktop](resources/cloneLocal.png)
 2. You'll see a few options to choose from: 
    - For `GitHub.com` you should see a list of repositories you can clone.
    - For `URL` you can paste the URL or the repository this can be found in the following image. 
-   - ![clone Github online](resources\cloneRepo.png)
+   - ![clone Github online](resources/cloneRepo.png)
 3. When cloning the repository make sure to set and keep track of the `Local path`. This is where the repository will be stored on your computer. 
 
 ### Step 3: Making a Commit and Pushing.
@@ -67,13 +67,13 @@ The code written in `main.cpp` is unfinished, it is your job to complete it.
    - ![changes in github desktop](resources/changes.png)
 5. Name your commit, enter some text to descibe what changes you made. 
    - A well named commit will help you keep track of the history of your project.
-   - ![Commit naming](resources\commit.png)
+   - ![Commit naming](resources/commit.png)
 6. Press `Commit to main`
 7. At the top of your screen press `Push origin`
    - This can also be done in the Repository menu
 
 ### Step 4: Pulling
-Now that you've pushed your changes you should be abe to see them reflected on the repository hosted on Github.com. [Click here to jump to main.cpp](IntroToSourceControl\main.cpp).
+Now that you've pushed your changes you should be abe to see them reflected on the repository hosted on Github.com. [Click here to jump to main.cpp](IntroToSourceControl/main.cpp).
 
 
 
