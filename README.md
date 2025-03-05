@@ -75,10 +75,25 @@ The code written in `main.cpp` is unfinished, it is your job to complete it.
 ### Step 4: Pulling
 Now that you've pushed your changes you should be abe to see them reflected on the repository hosted on Github.com. [Click here to jump to main.cpp](IntroToSourceControl/main.cpp).
 
+1. Make an edit to main.cpp on your browser. 
+   - Look for the pencil icon
+2. Save the file and commit it to main.
+3. Open GitHub Desktop and press `Fetch origin`
+   - <i>Fetching</i> is often a precursor to <i>pulling</i>. It checks the remote version of the repository to see if there are any new updates. 
+4. After fetching, press `Pull origin`, 
+   - This will update files on your local machine. 
+5. Open Visual Studio to see the new changes that have been made.
 
+Congratualtions you have successfully pulled and pushed to a repository using source control! 
 
-
-
+### Next Steps
+1. Complete the function `IsPrimeNumber(int _x)` to correctly calculate prime numbers and commit and push it to your repository.
+2. Try checking out older commits, this can be done in the History tab of GitHub Desktop. 
+   - <i>Checking Out</i> is the act of changing your current version of the repository on you local machine. 
+   - It is used to see older versions and change between branches. 
+   - Don't forget to checkout the latest commit after this!
+3. Make a new repository on github and clone it onto your computer. 
+   - You'll be expected to make use of source control in future assignments, practice makes perfect! 
 
 ### Questions?
 Contact your lecturer about any additional questions you have.
